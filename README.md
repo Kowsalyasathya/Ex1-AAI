@@ -1,7 +1,7 @@
-<H3> Name </H3>
-<H3>Register No.</H3>
+<H3> Name : KOWSALYA M</H3>
+<H3>Register No: 212222230069</H3>
 <H3> Experiment 1</H3>
-<H3>DATE:</H3>
+<H3>DATE:05/09/2024</H3>
 
 # Implementation of Bayesian Networks
 
