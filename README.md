@@ -106,7 +106,7 @@ print(probs(df, child='RainTomorrow', parent1='Humidity3pmCat', parent2='WindGus
 ```
 
 ## Output:
-#### VARIABLE BANDS:
+#### Variable bands:
 ![363492179-6182ef77-1ac1-420a-abe7-b65c0a66df52](https://github.com/user-attachments/assets/2a4f5053-015a-4215-a108-304cba167a59)
 
 ![363492179-6182ef77-1ac1-420a-abe7-b65c0a66df52](https://github.com/user-attachments/assets/dc5e1a15-15ff-4f37-9abd-853611df673b)
@@ -117,7 +117,7 @@ print(probs(df, child='RainTomorrow', parent1='Humidity3pmCat', parent2='WindGus
 
 ![363492192-c9882288-32b6-4e1e-a6d5-b667c3a403b6](https://github.com/user-attachments/assets/6cfd0ce4-cec7-42e0-a1b3-53e59c1c72ba)
 
-#### GRAPH:
+#### Graph:
 ![363492202-91d35ed4-efa4-4af6-95ee-dfc3b9f6f992](https://github.com/user-attachments/assets/1567d133-d23e-4b8b-8853-f0c5b61f5921)
 
 ## Result:
